@@ -48,6 +48,6 @@ Posibles mejoras y/o modificaciones:
 
  - Version 0.9 : Julio 2024. Commit inicial.
 
-Si necesitas ideas, noticias o código para tus proyectos SaaS o para tu próxima startup únete a mi comunidad en Telegram: https://t.me/izarlabs
+Si necesitas ideas, noticias o código para tus proyectos SaaS o para tu próxima Startup únete a mi comunidad en Telegram: https://t.me/izarlabs
 
 
